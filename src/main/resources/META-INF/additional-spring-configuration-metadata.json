@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "rabbitmq.host",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.host'"
+  },
+  {
+    "name": "rabbitmq.virtualhost",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.virtualhost'"
+  },
+  {
+    "name": "rabbitmq.port",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.port'"
+  },
+  {
+    "name": "rabbitmq.username",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.username'"
+  },
+  {
+    "name": "rabbitmq.password",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.password'"
+  },
+  {
+    "name": "rabbitmq.exchange",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.exchange'"
+  },
+  {
+    "name": "rabbitmq.routingkey",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.routingkey'"
+  },
+  {
+    "name": "rabbitmq.queue",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.queue'"
+  },
+  {
+    "name": "rabbitmq.reply.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.reply.timeout'"
+  },
+  {
+    "name": "rabbitmq.concurrent.consumers",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.concurrent.consumers'"
+  },
+  {
+    "name": "rabbitmq.max.concurrent.consumers",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.max.concurrent.consumers'"
+  }
+]}
